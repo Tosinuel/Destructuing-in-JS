@@ -17,5 +17,7 @@ blogPosts.forEach(post => {
   authors.push(author);
 });
 
+
 console.log(titles); 
 console.log(authors);
+
